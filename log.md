@@ -1,30 +1,40 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code 
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: June 18, 2020 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 75% of learning Basic HTML and HTML5
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I started with the very begining of HTML. I didn't know a lot of commands, and it has been pretty exciting to learn something from zero!
+Today I did 21 activities of 28. It's a good start!
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** [FreeCodeCamp Luciana](https://www.freecodecamp.org/luciana-bonani)
 
 
-### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+### Day 2: June 19, 2020 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Today's Progress**: Started Basic CSS
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts:** Today I finished the basic HTML and HTML5 class. I started the Basic class, and I've already made 60% of the class! 
+
+**Link to work:** [FreeCodeCamp Luciana](https://www.freecodecamp.org/luciana-bonani)
+
+
+
+### Day 3: June 20, 2020 
+
+**Today's Progress**: Finished Basic CSS
+
+**Thoughts:** I finished the Basic CSS class, it was great. I'm exciting for learning even more.
+
+**Link to work:** [FreeCodeCamp Luciana](https://www.freecodecamp.org/luciana-bonani)
+
+
+
+### Day 4: June 21, 2020 
+
+**Today's Progress**: Started Applied Visual Design
+
+**Thoughts:** I started Applied Visual Design, I've already made 22 of 52 tests. 42% of the total!
+
+**Link to work:** [FreeCodeCamp Luciana](https://www.freecodecamp.org/luciana-bonani)
