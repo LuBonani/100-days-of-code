@@ -38,3 +38,13 @@ Today I did 21 activities of 28. It's a good start!
 **Thoughts:** I started Applied Visual Design, I've already made 22 of 52 tests. 42% of the total!
 
 **Link to work:** [FreeCodeCamp Luciana](https://www.freecodecamp.org/luciana-bonani)
+
+
+
+### Day 5: June 22, 2020 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** [FreeCodeCamp Luciana](https://www.freecodecamp.org/luciana-bonani)
