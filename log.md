@@ -43,7 +43,7 @@ Today I did 21 activities of 28. It's a good start!
 
 ### Day 5: June 22, 2020 
 
-**Today's Progress**: 
+**Today's Progress**: Continuing Applied Visual Design
 
 **Thoughts:** 
 
