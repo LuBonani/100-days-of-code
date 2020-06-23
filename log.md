@@ -45,6 +45,6 @@ Today I did 21 activities of 28. It's a good start!
 
 **Today's Progress**: Continuing Applied Visual Design
 
-**Thoughts:** 
+**Thoughts:** I didn't do so much today. Now I'm in 55%.
 
 **Link to work:** [FreeCodeCamp Luciana](https://www.freecodecamp.org/luciana-bonani)
