@@ -48,3 +48,13 @@ Today I did 21 activities of 28. It's a good start!
 **Thoughts:** I didn't do so much today. Now I'm in 55%.
 
 **Link to work:** [FreeCodeCamp Luciana](https://www.freecodecamp.org/luciana-bonani)
+
+
+
+### Day 6: June 23, 2020 
+
+**Today's Progress**: Continuing Applied Visual Design
+
+**Thoughts:** I'm still in Applied Visual Design. Now I've made 44 of 52 activities, 85% of the total!
+
+**Link to work:** [FreeCodeCamp Luciana](https://www.freecodecamp.org/luciana-bonani)
