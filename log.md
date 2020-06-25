@@ -53,8 +53,18 @@ Today I did 21 activities of 28. It's a good start!
 
 ### Day 6: June 23, 2020 
 
-**Today's Progress**: Continuing Applied Visual Design
+**Today's Progress**: Still in Applied Visual Design
 
 **Thoughts:** I'm still in Applied Visual Design. Now I've made 44 of 52 activities, 85% of the total!
+
+**Link to work:** [FreeCodeCamp Luciana](https://www.freecodecamp.org/luciana-bonani)
+
+
+
+### Day 7: June 24, 2020 
+
+**Today's Progress**: Finished Applied Visual Design
+
+**Thoughts:** I finally finished the Applied Visual Design! I started Applied Acessibility and I've made 9 of 22. It's 41%.
 
 **Link to work:** [FreeCodeCamp Luciana](https://www.freecodecamp.org/luciana-bonani)
