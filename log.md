@@ -78,3 +78,13 @@ Today I did 21 activities of 28. It's a good start!
 **Thoughts:** I finished Accessibility today. I didn't have idea how important this is!
 
 **Link to work:** [FreeCodeCamp Luciana](https://www.freecodecamp.org/luciana-bonani)
+
+
+
+### Day 9: June 26, 2020 
+
+**Today's Progress**: Finished CSS Flexbox
+
+**Thoughts:** Today I started and finished the Responsive Web Design Principles AND the CSS Flexbox!
+
+**Link to work:** [FreeCodeCamp Luciana](https://www.freecodecamp.org/luciana-bonani)
