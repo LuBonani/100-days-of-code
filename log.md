@@ -98,3 +98,13 @@ Today I did 21 activities of 28. It's a good start!
 **Thoughts:** Today I started CSS Grid!
 
 **Link to work:** [FreeCodeCamp Luciana](https://www.freecodecamp.org/luciana-bonani)
+
+
+
+### Day 11: June 28, 2020 
+
+**Today's Progress**: Finished CSS Grid
+
+**Thoughts:** Today I Finished CSS Grid! And today I started the first Web Design Projects. Build a Tribute Page
+
+**Link to work:** [FreeCodeCamp Luciana](https://www.freecodecamp.org/luciana-bonani)
