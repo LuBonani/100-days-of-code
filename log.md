@@ -117,3 +117,12 @@ Today I did 21 activities of 28. It's a good start!
 **Thoughts:** I finished the first project of "Responsive Web Design Projects". The first one was Build a Tribute Page.
 
 **Link to work:** [FreeCodeCamp Luciana](https://www.freecodecamp.org/luciana-bonani)
+
+
+### Day 13: June 30, 2020 
+
+**Today's Progress**: Finished Second Project
+
+**Thoughts:** Today I started and finished the second project! I had to build a Survey Form.
+
+**Link to work:** [FreeCodeCamp Luciana](https://www.freecodecamp.org/luciana-bonani)
