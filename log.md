@@ -123,6 +123,7 @@ Today I did 21 activities of 28. It's a good start!
 
 **Today's Progress**: Finished Second Project
 
-**Thoughts:** Today I started and finished the second project! I had to build a Survey Form.
 
-**Link to work:** [FreeCodeCamp Luciana](https://www.freecodecamp.org/luciana-bonani)
+### Day 14: July 01, 2020 
+
+**Today's Progress**: Finished Third Project
