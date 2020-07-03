@@ -127,3 +127,8 @@ Today I did 21 activities of 28. It's a good start!
 ### Day 14: July 01, 2020 
 
 **Today's Progress**: Finished Third Project
+
+
+### Day 15: July 02, 2020 
+
+**Today's Progress**: Started the 4th Project
