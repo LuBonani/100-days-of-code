@@ -132,3 +132,10 @@ Today I did 21 activities of 28. It's a good start!
 ### Day 15: July 02, 2020 
 
 **Today's Progress**: Started the 4th Project
+
+
+### Day 16: July 03, 2020 
+
+**Today's Progress**: Start learning about Agile methodology
+
+**Thoughts:** I didn't program today, because Agile methodology is something that I want to learn more about a quite time ago. So today I've decided to start learning about it.
