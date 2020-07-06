@@ -144,3 +144,13 @@ Today I did 21 activities of 28. It's a good start!
 ### Day 17: July 04, 2020 
 
 **Today's Progress**: Finished the 4th Project
+
+
+### Day 18: July 05, 2020 
+
+**Today's Progress**: The first certification
+
+**Thoughts:** Today I finished the 5th Project and now I've got my first certification! I'm happy and proud of me!
+
+**Link to work:** [FreeCodeCamp Luciana](https://www.freecodecamp.org/luciana-bonani)
+
