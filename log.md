@@ -153,4 +153,12 @@ Today I did 21 activities of 28. It's a good start!
 **Thoughts:** Today I finished the 5th Project and now I've got my first certification! I'm happy and proud of me!
 
 **Link to work:** [FreeCodeCamp Luciana](https://www.freecodecamp.org/luciana-bonani)
+**Link certification** https://www.freecodecamp.org/certification/luciana-bonani/responsive-web-design
+
+
+### Day 19: July 06, 2020 
+
+**Today's Progress**: Started Basic JavaScript
+
+**Thoughts:** Today I made 15% of it!
 
