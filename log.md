@@ -162,3 +162,11 @@ Today I did 21 activities of 28. It's a good start!
 
 **Thoughts:** Today I made 15% of it!
 
+
+### Day 20: July 07, 2020 
+
+**Today's Progress**: Review HTML5 and CSS3
+
+**Thoughts:** I studied a class of HTML5 & CSS3 from Alura website
+
+**Link to work:** https://cursos.alura.com.br/course/html5-css3-posicionamento-listas-navegacao
