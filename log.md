@@ -170,3 +170,10 @@ Today I did 21 activities of 28. It's a good start!
 **Thoughts:** I studied a class of HTML5 & CSS3 from Alura website
 
 **Link to work:** https://cursos.alura.com.br/course/html5-css3-posicionamento-listas-navegacao
+
+
+### Day 21: July 08, 2020 
+
+**Today's Progress**: Basic JavaScript
+
+**Thoughts:** Now I'm in 30% of it!
