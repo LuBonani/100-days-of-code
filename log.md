@@ -192,3 +192,8 @@ Today I did 21 activities of 28. It's a good start!
 ### Day 24: July 11, 2020 
 
 **Today's Progress**: 71% of Basic JavaScript
+
+
+### Day 25: July 12, 2020 
+
+**Today's Progress**: 78% of Basic JavaScript
