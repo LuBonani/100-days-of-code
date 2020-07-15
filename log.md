@@ -207,3 +207,8 @@ Today I did 21 activities of 28. It's a good start!
 
 ### Day 27: July 14, 2020
 **Today's Progress**: Finished the class I started yesterday
+
+
+### Day 28: July 15, 2020
+**Today's Progress**: Started and finished class about Advanced HTML and CSS
+**Link to work:** https://cursos.alura.com.br/course/html5-css3-avancando-css
