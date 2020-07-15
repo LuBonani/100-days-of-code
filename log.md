@@ -203,3 +203,7 @@ Today I did 21 activities of 28. It's a good start!
 **Today's Progress**: Review about HTML5 and CS3
 **Thoughts:** I started a class about forms and tables.
 **Link to work:** https://cursos.alura.com.br/course/html5-css3-formularios-tabelas
+
+
+### Day 27: July 14, 2020
+**Today's Progress**: Finished the class I started yesterday
