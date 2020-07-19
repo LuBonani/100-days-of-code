@@ -222,3 +222,8 @@ Today I did 21 activities of 28. It's a good start!
 ### Day 30: July 17, 2020
 **Today's Progress**: Finished class about Introduction of JavaScript
 **Link to work:** https://cursos.alura.com.br/course/javascript-introducao
+
+
+### Day 31: July 18, 2020
+**Today's Progress**: Started a class about Object Oriented
+**Link to work:** https://cursos.alura.com.br/course/javascritpt-orientacao-objetos
