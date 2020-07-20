@@ -227,3 +227,8 @@ Today I did 21 activities of 28. It's a good start!
 ### Day 31: July 18, 2020
 **Today's Progress**: Started a class about Object Oriented
 **Link to work:** https://cursos.alura.com.br/course/javascritpt-orientacao-objetos
+
+
+### Day 32: July 19, 2020
+**Today's Progress**: Finished the class about Object Oriented
+**Link to work:** https://cursos.alura.com.br/course/javascritpt-orientacao-objetos
