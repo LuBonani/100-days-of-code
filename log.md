@@ -244,6 +244,11 @@ Today I did 21 activities of 28. It's a good start!
 **Link to work:** https://cursos.alura.com.br/course/javascript-polimorfismo
 
 
-### Day 35: July 21, 2020
+### Day 35: July 22, 2020
 **Today's Progress**: Finished the class about Interfaces and Inheritance
 **Link to work:** https://cursos.alura.com.br/course/javascript-polimorfismo
+
+
+### Day 36: July 23, 2020
+**Today's Progress**: Started a class about JS web
+**Link to work:** https://cursos.alura.com.br/course/javascript-programando-na-linguagem-web
