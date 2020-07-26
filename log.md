@@ -257,3 +257,8 @@ Today I did 21 activities of 28. It's a good start!
 ### Day 37: July 24, 2020
 **Today's Progress**: 3th lesson of JS web class
 **Link to work:** https://cursos.alura.com.br/course/javascript-programando-na-linguagem-web
+
+
+### Day 38: July 25, 2020
+**Today's Progress**: 4 of 9 -- of JS web class
+**Link to work:** https://cursos.alura.com.br/course/javascript-programando-na-linguagem-web
