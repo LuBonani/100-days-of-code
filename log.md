@@ -196,7 +196,7 @@ Today I did 21 activities of 28. It's a good start!
 
 ### Day 25: July 12, 2020 
 
-**Today's Progress**: 
+**Today's Progress**: 79% of Basic JavaScript
 
 
 ### Day 26: July 13, 2020
@@ -287,3 +287,12 @@ Today I did 21 activities of 28. It's a good start!
 ### Day 43: July 30, 2020
 **Today's Progress**: Finished JS web class
 **Link to work:** https://cursos.alura.com.br/course/javascript-programando-na-linguagem-web
+
+
+### Day 44: July 31, 2020 
+
+**Today's Progress**: 84% Basic Java Script
+
+**Thoughts:** Today I restart the Basic Java Script class, review a lot and did some activities
+
+**Link to work:** [FreeCodeCamp Luciana](https://www.freecodecamp.org/luciana-bonani)
