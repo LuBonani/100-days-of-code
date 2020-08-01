@@ -296,3 +296,8 @@ Today I did 21 activities of 28. It's a good start!
 **Thoughts:** Today I restart the Basic Java Script class, review a lot and did some activities
 
 **Link to work:** [FreeCodeCamp Luciana](https://www.freecodecamp.org/luciana-bonani)
+
+
+## Day 45: August 01, 2020 
+
+**Today's Progress**: 90% Basic Java Script
