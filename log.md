@@ -306,3 +306,8 @@ Today I did 21 activities of 28. It's a good start!
 ## Day 46: August 02, 2020 
 
 **Today's Progress**: RECURSION - 91% Basic Java Script
+
+
+## Day 47: August 03, 2020 
+**Today's Progress**: Finished Basic Java Script
+**Link to work:** [FreeCodeCamp Luciana](https://www.freecodecamp.org/luciana-bonani)
