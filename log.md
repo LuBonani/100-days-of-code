@@ -301,3 +301,8 @@ Today I did 21 activities of 28. It's a good start!
 ## Day 45: August 01, 2020 
 
 **Today's Progress**: 90% Basic Java Script
+
+
+## Day 46: August 02, 2020 
+
+**Today's Progress**: RECURSION - 91% Basic Java Script
