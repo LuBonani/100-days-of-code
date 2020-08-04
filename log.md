@@ -311,3 +311,7 @@ Today I did 21 activities of 28. It's a good start!
 ## Day 47: August 03, 2020 
 **Today's Progress**: Finished Basic Java Script
 **Link to work:** [FreeCodeCamp Luciana](https://www.freecodecamp.org/luciana-bonani)
+
+
+## Day 48: August 04, 2020 
+**Today's Progress**: Started ES6 class
