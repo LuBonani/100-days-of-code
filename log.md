@@ -315,3 +315,8 @@ Today I did 21 activities of 28. It's a good start!
 
 ## Day 48: August 04, 2020 
 **Today's Progress**: Started ES6 class
+**Link to work:** [FreeCodeCamp Luciana](https://www.freecodecamp.org/luciana-bonani)
+
+
+## Day 49: August 05, 2020 
+**Today's Progress**: 23% ES6 class
