@@ -325,3 +325,7 @@ Today I did 21 activities of 28. It's a good start!
 ## Day 50: August 06, 2020 
 **Today's Progress**: 29% ES6 class
 **Thoughts:** Learned about default parameters and rest parameters
+
+
+## Day 51: August 07, 2020 
+**Today's Progress**: Review the subjects of the week
