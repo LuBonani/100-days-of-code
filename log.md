@@ -337,3 +337,8 @@ Today I did 21 activities of 28. It's a good start!
 
 ## Day 53: August 09, 2020 
 **Today's Progress**: Review the subjects of the week
+
+
+### Day 54: August 10, 2020 
+**Today's Progress**: Day 0 - 30 Days of Code JAVA
+**Link to work:** https://www.hackerrank.com/domains/tutorials/30-days-of-code
