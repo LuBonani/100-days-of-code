@@ -333,3 +333,7 @@ Today I did 21 activities of 28. It's a good start!
 
 ## Day 52: August 08, 2020 
 **Today's Progress**: 48% ES6 class
+
+
+## Day 53: August 09, 2020 
+**Today's Progress**: Review the subjects of the week
