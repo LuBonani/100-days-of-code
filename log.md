@@ -376,3 +376,8 @@ Today I did 21 activities of 28. It's a good start!
 ### Day 61: August 17, 2020 
 **Today's Progress**: Day 7 - 30 Days of Code JAVA
 **Link to work:** https://www.hackerrank.com/domains/tutorials/30-days-of-code
+
+
+### Day 62: August 18, 2020 
+**Today's Progress**: Day 8 - 30 Days of Code JAVA
+**Link to work:** https://www.hackerrank.com/domains/tutorials/30-days-of-code
