@@ -432,7 +432,12 @@ Today I did 21 activities of 28. It's a good start!
 **Link to work:** https://www.hackerrank.com/domains/tutorials/30-days-of-code
 
 
-### Day 73: September 08, 2020 
+### Day 73: September 09, 2020 
 **Today's Progress**: 2/5 mySQL Basic
 **Thoughts:** After a long time, I came back to study, and have decide to start studying mySQL. 
+**Link to work:** https://cursos.alura.com.br/course/mysql-manipule-dados-com-sql
+
+
+### Day 74: September 10, 2020 
+**Today's Progress**: 3/5 mySQL Basic
 **Link to work:** https://cursos.alura.com.br/course/mysql-manipule-dados-com-sql
