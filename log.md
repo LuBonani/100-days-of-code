@@ -476,3 +476,8 @@ Today I did 21 activities of 28. It's a good start!
 ### Day 81: September 17, 2020 
 **Today's Progress**: 5/6 mySQL query
 **Link to work:** https://cursos.alura.com.br/course/mysql-consultas-sql
+
+
+### Day 82: September 18, 2020 
+**Today's Progress**: Finished mySQL query
+**Link to work:** https://cursos.alura.com.br/course/mysql-consultas-sql
