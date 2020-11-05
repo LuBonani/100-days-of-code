@@ -486,3 +486,8 @@ Today I did 21 activities of 28. It's a good start!
 ### Day 83: September 22, 2020 
 **Today's Progress**: Started class about windows server
 **Link to work:** https://cursos.alura.com.br/course/windows-server
+
+
+### Day 84: November 05, 2020 
+**Today's Progress**: Back to study, started Power BI class
+**Link to work:** https://www.youtube.com/playlist?list=PLxjKFMYkZ9OdkcIZVh3vCFfV99o1CHVaX
