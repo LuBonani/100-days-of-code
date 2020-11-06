@@ -491,3 +491,8 @@ Today I did 21 activities of 28. It's a good start!
 ### Day 84: November 05, 2020 
 **Today's Progress**: Back to study, started Power BI class
 **Link to work:** https://www.youtube.com/playlist?list=PLxjKFMYkZ9OdkcIZVh3vCFfV99o1CHVaX
+
+
+### Day 85: November 06, 2020 
+**Today's Progress**: Power Bi, learning about graphics manipulation
+**Link to work:** https://www.youtube.com/playlist?list=PLxjKFMYkZ9OdkcIZVh3vCFfV99o1CHVaX
