@@ -496,3 +496,7 @@ Today I did 21 activities of 28. It's a good start!
 ### Day 85: November 06, 2020 
 **Today's Progress**: Power Bi, learning about graphics manipulation
 **Link to work:** https://www.youtube.com/playlist?list=PLxjKFMYkZ9OdkcIZVh3vCFfV99o1CHVaX
+
+### Day 86: December 07, 2020 
+**Today's Progress**: Comeback to Python studies
+**Thoughts:** After a long time, I came back to study, and have decide to start studying python by a book called "Introdução a programação com Python" I'm in 5.1 now. 
