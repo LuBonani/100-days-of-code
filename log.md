@@ -503,4 +503,5 @@ Today I did 21 activities of 28. It's a good start!
 
 ### Day 87: January 04, 2021 
 **Today's Progress**: Started Data Science (basic course) 
+**Thoughts:** Using colab.research.google.com 
 **Link to work:** https://cursos.alura.com.br/course/data-science-primeiros-passos
