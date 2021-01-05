@@ -500,3 +500,7 @@ Today I did 21 activities of 28. It's a good start!
 ### Day 86: December 07, 2020 
 **Today's Progress**: Comeback to Python studies
 **Thoughts:** After a long time, I came back to study, and have decide to start studying python by a book called "Introdução a programação com Python" I'm in 5.1 now. 
+
+### Day 87: January 04, 2021 
+**Today's Progress**: Started Data Science (basic course) 
+**Link to work:** https://cursos.alura.com.br/course/data-science-primeiros-passos
