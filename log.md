@@ -529,3 +529,9 @@ Today I did 21 activities of 28. It's a good start!
 **Today's Progress**: Cap 5 - Data Science (basic course) 
 **Thoughts:** Using colab.research.google.com 
 **Link to work:** https://cursos.alura.com.br/course/data-science-primeiros-passos
+
+
+### Day 92: January 18, 2021 
+**Today's Progress**: Finished - Data Science (basic course) 
+**Thoughts:** Using colab.research.google.com - https://colab.research.google.com/drive/1gR_7sRqSPwpsN8OY8GJt2mC-QYf-CdN_?usp=sharing
+**Link to work:** https://cursos.alura.com.br/course/data-science-primeiros-passos
