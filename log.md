@@ -564,3 +564,9 @@ Today I did 21 activities of 28. It's a good start!
 **Today's Progress**: Cap 5 - Data Science (python and numpy for begginers) 
 **Thoughts:** Using colab.research.google.com - https://colab.research.google.com/drive/1-xRBb-SbRrOUPoWEtn3XVllpZQ5167zr#scrollTo=_IZuNE48ltnS
 **Link to work:** https://cursos.alura.com.br/course/python-tipos-listas-numpy
+
+
+### Day 98: January 27, 2021 
+**Today's Progress**: Finished - Data Science (python and numpy for begginers) 
+**Thoughts:** Using colab.research.google.com - https://colab.research.google.com/drive/1-xRBb-SbRrOUPoWEtn3XVllpZQ5167zr#scrollTo=_IZuNE48ltnS
+**Link to work:** https://cursos.alura.com.br/course/python-tipos-listas-numpy
